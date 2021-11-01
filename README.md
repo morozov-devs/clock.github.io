@@ -1,1 +1,2 @@
-morozov-devs.github.io
+
+[Go to site](morozov-devs.github.io)
