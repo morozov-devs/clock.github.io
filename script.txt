@@ -1,0 +1,5 @@
+print("hello world")
+class A:
+	def __init__():
+		this.n = 1
+some = new A()
